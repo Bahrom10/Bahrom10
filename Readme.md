@@ -46,6 +46,3 @@
 
 <img src="https://raw.githubusercontent.com/bahrom10/bahrom10/output/snake.svg" alt="Snake animation" />
 
-###
-
-###
